@@ -1,0 +1,17 @@
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.CategorySetupUl.resources
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.Cache
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.CompanyNameUl.resources
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.SetupItemUl.resources
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.StockInFrom.resources
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.MenuForm.resources
+E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.StockOutUl.resources
+E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
