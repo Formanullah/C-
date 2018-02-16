@@ -15,3 +15,6 @@ E:\BITM\visual studio project\project1\StockManagementApp\StockManagementApp\obj
 E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
 E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
 E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+C:\Users\Forman Ullah Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+C:\Users\Forman Ullah Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+C:\Users\Forman Ullah Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
