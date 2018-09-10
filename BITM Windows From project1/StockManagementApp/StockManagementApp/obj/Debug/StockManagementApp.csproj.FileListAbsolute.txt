@@ -18,3 +18,18 @@ E:\BITM\visual studio project\BITM Windows From project1\StockManagementApp\Stoc
 C:\Users\Forman Ullah Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
 C:\Users\Forman Ullah Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
 C:\Users\Forman Ullah Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe.config
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.exe
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\bin\Debug\StockManagementApp.pdb
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.Properties.Resources.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.CategorySetupUl.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.CompanyNameUl.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.MenuForm.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.SetupItemUl.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.StockInFrom.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.UI.StockOutUl.resources
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.GenerateResource.cache
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.exe
+C:\Users\Sajib\Documents\GitHub\C-\BITM Windows From project1\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
